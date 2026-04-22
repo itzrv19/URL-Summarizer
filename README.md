@@ -1,4 +1,4 @@
-# URL Summarizer (Flask API)
+# Smart URL Summarizer (Flask API)
 A lightweight API that shortens URLs, tracks clicks, and generates AI summaries of webpage content.
 
 ## Features
